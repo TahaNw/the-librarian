@@ -1,0 +1,321 @@
+
+
+==========================================================================================q026 | Answerable: True
+QUESTION: What is the name of the SMU foundation?
+REFERENCE: It is referred to as SMU Foundation.
+GENERATED: I don't have enough information in the available SMU sources to answer that question.
+
+CITED SOURCE EVIDENCE:
+No cited source URLs.
+
+q027 | Answerable: True
+QUESTION: What kinds of scholarship programs are mentioned by SMU Foundation?
+REFERENCE: The foundation's website lists scholarship programs including diversity, equality, and excellence scholarships.
+GENERATED: SMU Foundation offers three types of scholarship programs: Excellence Scholarship, Equality Scholarship, and Diversity Scholarship. [S2] [S3]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/medtech/service/financial-aid
+TITLE: Financial Aid - MEDTECH - Private University
+Financial Aid page Career and Alumni Services Campus Life Financial Aid Advising & Counseling Center SMU Incubator Library & Archives Student Clubs Scholarships Loans SCHOLARSHIP PROGRAM Scholarship applications are now open until July 31 st , 2026 Since its inception, SMU has been promoting academic excellence by granting scholarships to its brightest students. Today, the SMU Foundation, created as a non-profit organization, perpetuates this tradition with three scholarship opportunities for outstanding students, allowing them to pursue quality education in two of the best universities in Tunisia. MSB-Mediterranean School of Business (License & Master's) . MedTech-Mediterranean Institute of Technology (Engineering) . Apply Now SCHOLARSHIP TYPES EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP (*) Top 3: Three scholarships of 100%, 50% et 25% of tuition fees will be awarded each semester to the 1st, 2nd and 3rd best students (Best GPAs/semester) for each cohort for each school. SELECTION PROCESS Candidates will be selected upon the following criteria: Academic performance Extra-curricular activities Motivation Good English level Limited financial resources Geographical distance from Tunis Applications will be processes according to an independent and fair process: Learn more about SMU's Programs Our Scholarships are also open to candidates who apply to our joint programs ( MSB HEC or MedTech HEC ) but the scholarship can be granted only to cover the Tunisian tuition fees. Contact Us Email Fondation@smu.tn Telephone (+216)71194444 Fax (+216)71194500 Financial aid is provided by our partner Zitouna Bank through their program called Tamouil Dirasset that can finance up to 100% of your tuition fees. Student Parent Faculty Staff Company Alumni
+
+URL: https://www.smu.tn/smu/faq
+TITLE: Faq - SMU - Private University
+faq faq FAQS General Studying at SMU Admissions & Fees Tuition & Financial Aid Graduation & Diploma International Students What is the difference between SMU, MSB, Medtech and LCI? SMU , South Mediterranean University, is the U niversity regrouping MSB, the Mediterranean School of Business, Medtech, the Mediterranean Institute of Technology, and LCI, the Language and Cult ure Institute. When SMU was founded? SMU was founded in 2002 with the launch of the Executive MBA program which was overseen by Pr. Mahmoud Triki. What is the ACC? The Advising and Counseling Center (ACC) provides academic advising and personal counseling to current students. The ACC staff works with members of the University to assist students in resolving academic , personal, and psychological issues. What is the Career Center? The Career Center helps students and alumni define and reach their career goals, guide them throughout their professional development, and help them expand their professional network. The Career Center is also committed to maintain and develop partnerships with SMU’s employers' network and assisting them in terms of recruitment needs, thanks to our diverse student profiles. The Career Center also helps students find opportunities for internships. What constitutes alumni status? A South Mediterranean University alumnus/a is defined as any person receiving either a degree or a certificate of completion from MSB, Medtech, or LCI. What is the SMU Alumni Association? Created in 2011 to create an environment where SMU graduates can connect for mutual benefits. Its objective is to foster and nurture Alumni relations through different programs such as Alumni Network and the Alumni relation programs. SMU Alumni Association has the responsibility to provide graduates with a suitable framework and opportunities to meet and exchange with each other through events, fundraising activities, cultural and sporting events, round tables. What is Student Life? The Student Life Department plays a role in mobilizing students and ensuring extracurricular activities on and off-campus by organizing different events and activities. Student life offers many on-campus activities such as; basketball, ping-pong, and chess. It also organizes events such as Tunisian Day, Japanese Day, and Indonesian Day. What are the extracurricular activities for students? SMU offers the opportunity for students to be part of one of their various clubs. Campus life is vibrant outside the classrooms, where the
+
+q028 | Answerable: True
+QUESTION: What is the stated focus of a diversity scholarship at SMU Foundation?
+REFERENCE: The foundation lists a diversity scholarship program; its detailed eligibility and award conditions should be checked on the source page.
+GENERATED: The diversity scholarship at SMU Foundation is directed to International students from emerging countries and/or candidates with special needs. [S2]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/smu/faq
+TITLE: Faq - SMU - Private University
+faq faq FAQS General Studying at SMU Admissions & Fees Tuition & Financial Aid Graduation & Diploma International Students What is the difference between SMU, MSB, Medtech and LCI? SMU , South Mediterranean University, is the U niversity regrouping MSB, the Mediterranean School of Business, Medtech, the Mediterranean Institute of Technology, and LCI, the Language and Cult ure Institute. When SMU was founded? SMU was founded in 2002 with the launch of the Executive MBA program which was overseen by Pr. Mahmoud Triki. What is the ACC? The Advising and Counseling Center (ACC) provides academic advising and personal counseling to current students. The ACC staff works with members of the University to assist students in resolving academic , personal, and psychological issues. What is the Career Center? The Career Center helps students and alumni define and reach their career goals, guide them throughout their professional development, and help them expand their professional network. The Career Center is also committed to maintain and develop partnerships with SMU’s employers' network and assisting them in terms of recruitment needs, thanks to our diverse student profiles. The Career Center also helps students find opportunities for internships. What constitutes alumni status? A South Mediterranean University alumnus/a is defined as any person receiving either a degree or a certificate of completion from MSB, Medtech, or LCI. What is the SMU Alumni Association? Created in 2011 to create an environment where SMU graduates can connect for mutual benefits. Its objective is to foster and nurture Alumni relations through different programs such as Alumni Network and the Alumni relation programs. SMU Alumni Association has the responsibility to provide graduates with a suitable framework and opportunities to meet and exchange with each other through events, fundraising activities, cultural and sporting events, round tables. What is Student Life? The Student Life Department plays a role in mobilizing students and ensuring extracurricular activities on and off-campus by organizing different events and activities. Student life offers many on-campus activities such as; basketball, ping-pong, and chess. It also organizes events such as Tunisian Day, Japanese Day, and Indonesian Day. What are the extracurricular activities for students? SMU offers the opportunity for students to be part of one of their various clubs. Campus life is vibrant outside the classrooms, where the
+
+q029 | Answerable: True
+QUESTION: Does SMU Foundation have an excellence scholarship program?
+REFERENCE: Yes. An excellence scholarship program is listed by SMU Foundation.
+GENERATED: Yes, the SMU Foundation has an excellence scholarship program. This is supported by [S1] and [S2], which mention the Excellence Scholarship as one of the three scholarship types offered by the SMU Foundation. [S3] also confirms the existence of the Excellence Scholarship, describing it as varying from 25% to 100% tuition fees for candidates with an excellent academic record.
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/fondation-smu/education-and-scholarship/education-scholarships
+TITLE: SCHOLARSHIP PROGRAM - FONDATION-SMU - Private University
+SCHOLARSHIP PROGRAM page SCHOLARSHIP PROGRAM EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP About Scholarship applications are now o pen . Since its inception, SMU has been promoting academic excellence by granting scholarships to its brightest students. Today, the SMU Foundation, created as a non-profit organization, perpetuates this tradition with three scholarship opportunities for outstanding students, allowing them to pursue quality education in two of the best universities in Tunisia. MSB-Mediterranean School of Business (License & Master's) . MedTech-Mediterranean Institute of Technology (Engineering) . Apply Now SCHOLARSHIP TYPES EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP (*) Top 3 Excellence Scholarship: Scholarships of 100%, 50% et 25% of tuition fees will be awarded each semester to the best three students with the highest GPAs in each cohort at MSB and MedTech. SELECTION PROCESS Candidates will be selected upon the following criteria: Academic performance Extra-curricular activities Motivation Good English level Limited financial resources Geographical distance from Tunis Applications will be processes according to an independent and fair process: Learn more about SMU's Programs Our Scholarships are also open to candidates who apply to our joint programs ( MSB HEC or MedTech HEC ) but the scholarship can be granted only to cover the Tunisian tuition fees. Contact Us Email Fondation@smu.tn Telephone (+216)71194444 Fax (+216)71194500
+
+URL: https://www.smu.tn/medtech/service/financial-aid
+TITLE: Financial Aid - MEDTECH - Private University
+Financial Aid page Career and Alumni Services Campus Life Financial Aid Advising & Counseling Center SMU Incubator Library & Archives Student Clubs Scholarships Loans SCHOLARSHIP PROGRAM Scholarship applications are now open until July 31 st , 2026 Since its inception, SMU has been promoting academic excellence by granting scholarships to its brightest students. Today, the SMU Foundation, created as a non-profit organization, perpetuates this tradition with three scholarship opportunities for outstanding students, allowing them to pursue quality education in two of the best universities in Tunisia. MSB-Mediterranean School of Business (License & Master's) . MedTech-Mediterranean Institute of Technology (Engineering) . Apply Now SCHOLARSHIP TYPES EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP (*) Top 3: Three scholarships of 100%, 50% et 25% of tuition fees will be awarded each semester to the 1st, 2nd and 3rd best students (Best GPAs/semester) for each cohort for each school. SELECTION PROCESS Candidates will be selected upon the following criteria: Academic performance Extra-curricular activities Motivation Good English level Limited financial resources Geographical distance from Tunis Applications will be processes according to an independent and fair process: Learn more about SMU's Programs Our Scholarships are also open to candidates who apply to our joint programs ( MSB HEC or MedTech HEC ) but the scholarship can be granted only to cover the Tunisian tuition fees. Contact Us Email Fondation@smu.tn Telephone (+216)71194444 Fax (+216)71194500 Financial aid is provided by our partner Zitouna Bank through their program called Tamouil Dirasset that can finance up to 100% of your tuition fees. Student Parent Faculty Staff Company Alumni
+
+URL: https://www.smu.tn/smu/faq
+TITLE: Faq - SMU - Private University
+faq faq FAQS General Studying at SMU Admissions & Fees Tuition & Financial Aid Graduation & Diploma International Students What is the difference between SMU, MSB, Medtech and LCI? SMU , South Mediterranean University, is the U niversity regrouping MSB, the Mediterranean School of Business, Medtech, the Mediterranean Institute of Technology, and LCI, the Language and Cult ure Institute. When SMU was founded? SMU was founded in 2002 with the launch of the Executive MBA program which was overseen by Pr. Mahmoud Triki. What is the ACC? The Advising and Counseling Center (ACC) provides academic advising and personal counseling to current students. The ACC staff works with members of the University to assist students in resolving academic , personal, and psychological issues. What is the Career Center? The Career Center helps students and alumni define and reach their career goals, guide them throughout their professional development, and help them expand their professional network. The Career Center is also committed to maintain and develop partnerships with SMU’s employers' network and assisting them in terms of recruitment needs, thanks to our diverse student profiles. The Career Center also helps students find opportunities for internships. What constitutes alumni status? A South Mediterranean University alumnus/a is defined as any person receiving either a degree or a certificate of completion from MSB, Medtech, or LCI. What is the SMU Alumni Association? Created in 2011 to create an environment where SMU graduates can connect for mutual benefits. Its objective is to foster and nurture Alumni relations through different programs such as Alumni Network and the Alumni relation programs. SMU Alumni Association has the responsibility to provide graduates with a suitable framework and opportunities to meet and exchange with each other through events, fundraising activities, cultural and sporting events, round tables. What is Student Life? The Student Life Department plays a role in mobilizing students and ensuring extracurricular activities on and off-campus by organizing different events and activities. Student life offers many on-campus activities such as; basketball, ping-pong, and chess. It also organizes events such as Tunisian Day, Japanese Day, and Indonesian Day. What are the extracurricular activities for students? SMU offers the opportunity for students to be part of one of their various clubs. Campus life is vibrant outside the classrooms, where the
+
+q030 | Answerable: True
+QUESTION: Does SMU Foundation list an equality scholarship?
+REFERENCE: Yes. An equality scholarship program is listed by SMU Foundation.
+GENERATED: Yes, SMU Foundation lists an equality scholarship. This can be seen in [S1] and [S2], where the types of scholarships offered include the Equality Scholarship, which is designed for candidates with an excellent academic record, talented, passionate, and invested in extracurricular activities who encounter financial difficulties, and covers 100% of the tuition fees.
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/fondation-smu/education-and-scholarship/education-scholarships
+TITLE: SCHOLARSHIP PROGRAM - FONDATION-SMU - Private University
+SCHOLARSHIP PROGRAM page SCHOLARSHIP PROGRAM EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP About Scholarship applications are now o pen . Since its inception, SMU has been promoting academic excellence by granting scholarships to its brightest students. Today, the SMU Foundation, created as a non-profit organization, perpetuates this tradition with three scholarship opportunities for outstanding students, allowing them to pursue quality education in two of the best universities in Tunisia. MSB-Mediterranean School of Business (License & Master's) . MedTech-Mediterranean Institute of Technology (Engineering) . Apply Now SCHOLARSHIP TYPES EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP (*) Top 3 Excellence Scholarship: Scholarships of 100%, 50% et 25% of tuition fees will be awarded each semester to the best three students with the highest GPAs in each cohort at MSB and MedTech. SELECTION PROCESS Candidates will be selected upon the following criteria: Academic performance Extra-curricular activities Motivation Good English level Limited financial resources Geographical distance from Tunis Applications will be processes according to an independent and fair process: Learn more about SMU's Programs Our Scholarships are also open to candidates who apply to our joint programs ( MSB HEC or MedTech HEC ) but the scholarship can be granted only to cover the Tunisian tuition fees. Contact Us Email Fondation@smu.tn Telephone (+216)71194444 Fax (+216)71194500
+
+URL: https://www.smu.tn/smu/faq
+TITLE: Faq - SMU - Private University
+faq faq FAQS General Studying at SMU Admissions & Fees Tuition & Financial Aid Graduation & Diploma International Students What is the difference between SMU, MSB, Medtech and LCI? SMU , South Mediterranean University, is the U niversity regrouping MSB, the Mediterranean School of Business, Medtech, the Mediterranean Institute of Technology, and LCI, the Language and Cult ure Institute. When SMU was founded? SMU was founded in 2002 with the launch of the Executive MBA program which was overseen by Pr. Mahmoud Triki. What is the ACC? The Advising and Counseling Center (ACC) provides academic advising and personal counseling to current students. The ACC staff works with members of the University to assist students in resolving academic , personal, and psychological issues. What is the Career Center? The Career Center helps students and alumni define and reach their career goals, guide them throughout their professional development, and help them expand their professional network. The Career Center is also committed to maintain and develop partnerships with SMU’s employers' network and assisting them in terms of recruitment needs, thanks to our diverse student profiles. The Career Center also helps students find opportunities for internships. What constitutes alumni status? A South Mediterranean University alumnus/a is defined as any person receiving either a degree or a certificate of completion from MSB, Medtech, or LCI. What is the SMU Alumni Association? Created in 2011 to create an environment where SMU graduates can connect for mutual benefits. Its objective is to foster and nurture Alumni relations through different programs such as Alumni Network and the Alumni relation programs. SMU Alumni Association has the responsibility to provide graduates with a suitable framework and opportunities to meet and exchange with each other through events, fundraising activities, cultural and sporting events, round tables. What is Student Life? The Student Life Department plays a role in mobilizing students and ensuring extracurricular activities on and off-campus by organizing different events and activities. Student life offers many on-campus activities such as; basketball, ping-pong, and chess. It also organizes events such as Tunisian Day, Japanese Day, and Indonesian Day. What are the extracurricular activities for students? SMU offers the opportunity for students to be part of one of their various clubs. Campus life is vibrant outside the classrooms, where the
+
+q031 | Answerable: True
+QUESTION: What is the EPI Lab associated with on the SMU Foundation website?
+REFERENCE: EPI Lab is presented as an initiative associated with the SMU Foundation website.
+GENERATED: The EPI Lab is associated with the Development and Societies Research Lab (DEVSOC) of Paris 1 Pantheon-Sorbonne University and the Institut de Recherche pour le Développement (IRD) as per [S2].
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/fondation-smu/smuf-epi-lab-evidence-policy-impact-research-lab/about-epi-lab
+TITLE: About EPI Lab - FONDATION-SMU - Private University
+About EPI Lab page ABOUT EPI LAB MEMBERS LATEST SEMINARS CONFERENCES SELECTED RECENT PAPERS POLICY BRIEFS Podcasts Youtube Shorts Infographics Blogposts About: In September 2024, economists based in Tunisia and abroad established the Evidence Policy Impact Lab (EPI Lab) at South Mediterranean University (SMU) in collaboration with the Development and Societies Research Lab (DEVSOC) of Paris 1 Pantheon-Sorbonne University and the Institut de Recherche pour le Développement (IRD). EPI Lab's mission is to promote evidence-based policymaking through rigorous impact evaluations addressing economic, social, and environmental issues. The lab aims to connect researchers and practitioners, providing stakeholders with modern data science and policy analysis tools. Objectives: The Evidence Policy Impact Lab aims to foster evidence-based policy in Tunisia, the Mediterranean and in the African continent 1. Support evidence-based policy and its dissemination. 2. Seek to integrate economic, social, and environmental dimensions. 3. Establish connections between researchers and practitioners in the field of development. 4. Promote a culture of monitoring and evaluation of development policies. 5. Support the capacities of stakeholders to mobilize modern techniques in data science and impact analysis of public policies. Activities: 1. Conduct evaluative studies and research in economic, social, and environmental fields. Data production and processing Launch and use of existing large-scale surveys Use exhaustive administrative databases Impact evaluations 2. Organize workshops involving researchers and relevant stakeholders to discuss the outputs of the studies 3. Launch and co-organize conferences at the Mediterranean and global levels 4. Conduct training courses and awareness program
+
+q032 | Answerable: True
+QUESTION: What types of content does the SMU Foundation website publish about its work?
+REFERENCE: EPI Lab publishes policy briefs, infographics, blog posts, podcasts, research, seminars, and conferences to support evidence-based policymaking.
+GENERATED: The SMU Foundation website publishes content about its scholarship programs, research support, and capacity building initiatives. [S1], [S3], and [S4] mention these areas, indicating the types of content published about the foundation's work. [S2] also discusses the foundation's involvement in research support. 
+
+I don't have enough information in the available SMU sources to answer that question about specific types of content published beyond the mentioned areas.
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/fondation-smu
+TITLE: SMU Foundation
+Discover our scholarship opportunities read more MULTIPLE PRESENTS Photo Exhibition for the benefit of the SMU Foundation read more ABOUT SMU FOUNDATION SMU Foundation (Registered legally as "Association d'Appui au Savoir de la SMU") is a Tunisian non-profit association founded in 2018 by the South Mediterranean University (SMU-Group MSB, MedTech and LCI). Its aim is to promote and support the development of youth through the funding of student scholarships, research projects as well as employability and capacity building initiatives. EDUCATION & SCHOLARSHIPS Foster talent and Open quality Education to all. Offer scholarships and loans to students who have the talent and ability to succeed but concerns about funding. CAPACITY BUILDING Develop Competencies and Skills. Deploy capacity building programs that develop competencies and skills (Ex.: Leadership & Public Policy Development Program, Green & Sustainable Campus.) EMPLOYABILITY Bridge education to the professional World. Facilitate employability of young graduates by bringing them into a high-level training coupled with apprenticeship & cultivate the entrepreneurship culture. RESEARCH Drive Research Excellence. Provide an optimal framework for research around projects that have the potential to positively impact the social and economic sectors. News Recrutement d'un prestataire pour la Création de Vidéos et Podcasts 2025-10-28 Dans le cadre du projet Savoirs Éco, financé par l’Union européenne et mis en œuvre par... read more JCI SMU to Represent Tunisia at CAMO 2025! 2025-05-19 read more Appel à propositions – Sessions de formation en rédaction de policy briefs 2025-05-15 📢 Appel à propositions – Sessions de formation en rédaction de policy briefs Dans le cadre du projet Savoir... read more read more Testimonials Aziz Ben Romdhane Excellence Scholarship awardee and MBA student at MSB My time at SMU has been really transformative and receiving a fully funded scholarship of excellence remains as turning point in my academic journey as well as a really big challenge where it motivated me to excel in a diverse, dynamic learning environment. In the diverse range of Master specialties that MSB offers , I chose Business Analytics as a specialty and was really a very good choice which equipped me with cutting-edge analytical skills and comprehensive knowledge that served as an opportunity to enhance more my hard skills and to leverage data driven insights which help me drive strategic business decisions in my
+
+URL: https://www.smu.tn/fondation-smu/about-us/about-smuf
+TITLE: ABOUT SMU FOUNDATION - FONDATION-SMU - Private University
+ABOUT SMU FOUNDATION page ABOUT SMU FOUNDATION PRESIDENT'S MESSAGE OUR BOARDS OUR PARTNERS Annual Reports Testimonials SMU Foundation SMU Foundation is a Tunisian non-profit association founded in 2018 by the South Mediterranean University (SMU-Group MSB, MedTech and LCI). Its aim is to promote and support the development of youth through the funding of student scholarships, research projects as well as employability and capacity building initiatives. OUR VISION Nurture talent Broaden horizons Develop creativity OUR MISSION Promote and support the development of talent through the funding of student scholarships, research projects, capacity building and employability initiatives. OUR VALUES Excellence Diversity Innovation Integrity
+
+URL: https://www.smu.tn/fondation-smu/education-and-scholarship/education-scholarships
+TITLE: SCHOLARSHIP PROGRAM - FONDATION-SMU - Private University
+SCHOLARSHIP PROGRAM page SCHOLARSHIP PROGRAM EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP About Scholarship applications are now o pen . Since its inception, SMU has been promoting academic excellence by granting scholarships to its brightest students. Today, the SMU Foundation, created as a non-profit organization, perpetuates this tradition with three scholarship opportunities for outstanding students, allowing them to pursue quality education in two of the best universities in Tunisia. MSB-Mediterranean School of Business (License & Master's) . MedTech-Mediterranean Institute of Technology (Engineering) . Apply Now SCHOLARSHIP TYPES EXCELLENCE SCHOLARSHIP EQUALITY SCHOLARSHIP DIVERSITY SCHOLARSHIP (*) Top 3 Excellence Scholarship: Scholarships of 100%, 50% et 25% of tuition fees will be awarded each semester to the best three students with the highest GPAs in each cohort at MSB and MedTech. SELECTION PROCESS Candidates will be selected upon the following criteria: Academic performance Extra-curricular activities Motivation Good English level Limited financial resources Geographical distance from Tunis Applications will be processes according to an independent and fair process: Learn more about SMU's Programs Our Scholarships are also open to candidates who apply to our joint programs ( MSB HEC or MedTech HEC ) but the scholarship can be granted only to cover the Tunisian tuition fees. Contact Us Email Fondation@smu.tn Telephone (+216)71194444 Fax (+216)71194500
+
+URL: https://www.smu.tn/fondation-smu/employability-research/research-page
+TITLE: Research - FONDATION-SMU - Private University
+Research page EMPLOYABILITY RESEARCH SUPPORTING THE SMU RESEARCH CENTER FUNDRAISING EFFORTS The SMU Foundation works with the SMU Research Center to identify relevant funding opportunities for research projects. For more details on the SMU Research Center here Research Center COLUMBIA UNIVERSITY GLOBAL CITIZENSHIP PROJECT We are honored to be a partner in the “Youth-led Advocacy Initiative for Global Citizenship, Responsibility, and Cooperation,” project supported by Columbia University President’s Global Innovation Fund, and implemented by Columbia University’s Center for Sustainable Development and its School of International and Public Affairs, in collaboration with Columbia Global Centers of Istanbul and Tunis, Boğaziçi University, Anadolu University, South Mediterranean University, and Global Master’s in Development Practice. With a youth-led, bottom-up approach, the main goal of this project is to create a network of university students, who will be advocating for a curriculum update in their universities to have a multidisciplinary and required course on global citizenship including topics such as sustainable development, climate change, international migration, one health, health equity, social inclusion, prevention of stigma, racism, and discrimination, in addition to global diplomacy and cooperation. The program is led by Yanis Ben Amor, Assistant Professor of Global Health, Özge Karadağ, Senior Staff Associate, Center for Sustainable Development and Daniel Naujoks, lecturer at SIPA. Columbia Global Centers in Istanbul and Tunis are working together on this project.
+
+q033 | Answerable: True
+QUESTION: Does SMU Foundation publish policy briefs?
+REFERENCE: Yes. A policy briefs section is listed on the foundation website.
+GENERATED: I don't have enough information in the available SMU sources to answer that question.
+
+CITED SOURCE EVIDENCE:
+No cited source URLs.
+
+q034 | Answerable: True
+QUESTION: Does the foundation website include research-related content?
+REFERENCE: Yes. The website includes research-related content and selected recent papers.
+GENERATED: Yes, the foundation website includes research-related content. This is supported by [S1], which mentions that the SMU Foundation works with the SMU Research Center to identify funding opportunities for research projects.
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/fondation-smu/employability-research/research-page
+TITLE: Research - FONDATION-SMU - Private University
+Research page EMPLOYABILITY RESEARCH SUPPORTING THE SMU RESEARCH CENTER FUNDRAISING EFFORTS The SMU Foundation works with the SMU Research Center to identify relevant funding opportunities for research projects. For more details on the SMU Research Center here Research Center COLUMBIA UNIVERSITY GLOBAL CITIZENSHIP PROJECT We are honored to be a partner in the “Youth-led Advocacy Initiative for Global Citizenship, Responsibility, and Cooperation,” project supported by Columbia University President’s Global Innovation Fund, and implemented by Columbia University’s Center for Sustainable Development and its School of International and Public Affairs, in collaboration with Columbia Global Centers of Istanbul and Tunis, Boğaziçi University, Anadolu University, South Mediterranean University, and Global Master’s in Development Practice. With a youth-led, bottom-up approach, the main goal of this project is to create a network of university students, who will be advocating for a curriculum update in their universities to have a multidisciplinary and required course on global citizenship including topics such as sustainable development, climate change, international migration, one health, health equity, social inclusion, prevention of stigma, racism, and discrimination, in addition to global diplomacy and cooperation. The program is led by Yanis Ben Amor, Assistant Professor of Global Health, Özge Karadağ, Senior Staff Associate, Center for Sustainable Development and Daniel Naujoks, lecturer at SIPA. Columbia Global Centers in Istanbul and Tunis are working together on this project.
+
+q035 | Answerable: True
+QUESTION: Does SMU Foundation publish information about conferences and seminars?
+REFERENCE: Yes. The website has sections for conferences and seminars.
+GENERATED: I don't have enough information in the available SMU sources to answer that question.
+
+CITED SOURCE EVIDENCE:
+No cited source URLs.
+
+q036 | Answerable: True
+QUESTION: What language courses does LCI list?
+REFERENCE: LCI lists language courses including Chinese, English, French, Italian, and Spanish.
+GENERATED: LCI offers the following language courses: Business English & Communication, Language Courses (including courses in French, Tunisian Dialect, Spanish, Italian, Chinese), and Tailored Courses. [S1] [S4]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci
+TITLE: LCI - Language and Culture Institute: Language Center Tunisia
+Facts and Figures 500+ Participants in 2024 90% Satisfied Participants 20+ Training Programs 30+ Corporate Partners About us In today’s fast-changing world, continuous learning is key to success. LCI – Language & Culture Institute, part of South Mediterranean University (SMU), empowers professionals, students, and youth by providing top-tier training and globally recognized certifications. Our programs blend academic excellence with practical experience, helping individuals enhance their skills, stay ahead of market trends, and achieve career growth. Whether you're an executive seeking advancement, a student developing new competencies, or a young learner exploring future opportunities, LCI offers a dynamic learning environment led by industry experts. Join LCI—where education meets career success! . President's Message In a globalized world economic order, your capacity of communicating in the language of your partners in different parts of the world and understanding their cultural specificities is of prime importance. Director’s Message The Language and Culture Institute is a centre of excellence in language training and cultural activities. Our mission is to provide language and professional development courses of excellence, as well as promoting inter cultural awareness leading to a better understanding and bringing together of people from all over the world. By choosing LCI you will embark on a unique and stimulating learning experience. Our long-standing expertise, cutting-edge pedagogical methods, and dedicated staff will make this choice your key to the future. News British Ambassador Visit 2024-12-20 🎉 Strengthening Ties: LCI and British Council Partnership🤝 We’re proud to announce that the SMU Language &a... read more Career fair 2024 2024-11-20 A Heartfelt Thanks to Our Amazing Partners! The 11th Edition of the SMU Career Fair: AI for Sustainability... read more Mediterranean School of Health Launching 2024-06-13 🎉 La South Mediterranean University (SMU) est ravie de d'annoncer le lancemen... read more read more Zied Khabtani Accounting Manager I participated in a Business English course and was able to really improve my communication skills as well as professional writing. The classes are dynamic, interactive and fun, it was fruitful and enjoyable experience Leila Becha HR Manager It was important for me to improve my knowledge of Business English and Public Speaking to move ahead in my professional career. At LCI I was able not only to boost 
+
+URL: https://www.smu.tn/lci/sitemap
+TITLE: Sitemap
+Site Map sitemap LCI About Us About Us Director’s Message Mission & Values They Trust Us Faculty & Coaches Faculty Openings Corporate Training Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication Language Courses Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses News Events SMU Portal Exam Prep Courses IELTS TOEFL GMAT MSB Summer Bootcamps Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing MEDTECH
+
+q037 | Answerable: True
+QUESTION: Does LCI offer English language courses?
+REFERENCE: Yes. LCI lists an English language course.
+GENERATED: I don't have enough information in the available SMU sources to answer that question.
+
+CITED SOURCE EVIDENCE:
+No cited source URLs.
+
+q038 | Answerable: True
+QUESTION: Does LCI offer French language courses?
+REFERENCE: Yes. LCI lists a French language course.
+GENERATED: Yes, LCI offers French language courses. [S3] [S4]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci
+TITLE: LCI - Language and Culture Institute: Language Center Tunisia
+Facts and Figures 500+ Participants in 2024 90% Satisfied Participants 20+ Training Programs 30+ Corporate Partners About us In today’s fast-changing world, continuous learning is key to success. LCI – Language & Culture Institute, part of South Mediterranean University (SMU), empowers professionals, students, and youth by providing top-tier training and globally recognized certifications. Our programs blend academic excellence with practical experience, helping individuals enhance their skills, stay ahead of market trends, and achieve career growth. Whether you're an executive seeking advancement, a student developing new competencies, or a young learner exploring future opportunities, LCI offers a dynamic learning environment led by industry experts. Join LCI—where education meets career success! . President's Message In a globalized world economic order, your capacity of communicating in the language of your partners in different parts of the world and understanding their cultural specificities is of prime importance. Director’s Message The Language and Culture Institute is a centre of excellence in language training and cultural activities. Our mission is to provide language and professional development courses of excellence, as well as promoting inter cultural awareness leading to a better understanding and bringing together of people from all over the world. By choosing LCI you will embark on a unique and stimulating learning experience. Our long-standing expertise, cutting-edge pedagogical methods, and dedicated staff will make this choice your key to the future. News British Ambassador Visit 2024-12-20 🎉 Strengthening Ties: LCI and British Council Partnership🤝 We’re proud to announce that the SMU Language &a... read more Career fair 2024 2024-11-20 A Heartfelt Thanks to Our Amazing Partners! The 11th Edition of the SMU Career Fair: AI for Sustainability... read more Mediterranean School of Health Launching 2024-06-13 🎉 La South Mediterranean University (SMU) est ravie de d'annoncer le lancemen... read more read more Zied Khabtani Accounting Manager I participated in a Business English course and was able to really improve my communication skills as well as professional writing. The classes are dynamic, interactive and fun, it was fruitful and enjoyable experience Leila Becha HR Manager It was important for me to improve my knowledge of Business English and Public Speaking to move ahead in my professional career. At LCI I was able not only to boost 
+
+URL: https://www.smu.tn/lci/about/directors-message
+TITLE: Director’s Message - LCI - Private University
+Director’s Message About Us Director’s Message Mission & Values They Trust Us Faculty & Coaches Faculty Openings Director’s Message The Language and Culture Institute is a centre of excellence in language training and cultural activities. Our mission is to provide language and professional development courses of excellence, as well as promoting inter cultural awareness leading to a better understanding and bringing together of people from all over the world. By choosing LCI you will embark on a unique and stimulating learning experience. Our long-standing expertise, cutting-edge pedagogical methods, and dedicated staff will make this choice your key to the future. Patricia Ceresani Director, Language and Culture Institute
+
+q039 | Answerable: True
+QUESTION: Does LCI list a Spanish language course?
+REFERENCE: Yes. LCI lists a Spanish language course.
+GENERATED: Yes, LCI lists a Spanish language course. This is directly supported by [S2].
+
+Spanish Language Course [S2]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/language-programs/spanish-language-course
+TITLE: Spanish Language Course - LCI - Private University
+Spanish Language Course Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses Spanish Language Course The Spanish course is designed for individuals wishing to become proficient in one of the world’s most widely spoken languages. It focuses on enhancing speaking, listening, reading, and writing skills, with an emphasis on conversational Spanish for daily use. Through dynamic lessons and cultural activities, participants will build a strong foundation in grammar and vocabulary while becoming confident in using Spanish in various contexts. Outcome: Improve Spanish fluency for both casual and professional conversations. Develop reading, writing, and listening comprehension skills. Understand and apply cultural aspects of the Spanish-speaking world. Course Details: 40 hours of training Evening class format Twice a week, from 6:30 pm to 8:30 pm SMU Campus, Lac 2.
+
+q040 | Answerable: True
+QUESTION: Which language courses are listed besides English and French?
+REFERENCE: The LCI website also lists Chinese, Italian, and Spanish language courses.
+GENERATED: The language courses listed besides English and French are Spanish, Italian, and Chinese, as explicitly stated in [S1].
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/language-programs/tailored-courses
+TITLE: Language Courses - Tailored to Your Needs - LCI - Private University
+Language Courses - Tailored to Your Needs page Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses Language Courses - Tailored to Your Needs We offer a wide range of language courses in English , French , Spanish , Italian , and Chinese , designed to enhance communication skills in both personal and professional contexts. Our courses cover all key language skills: speaking, listening, reading, and writing. Custom Training for Your Business We provide specialized language training tailored to meet the specific needs of your industry, such as: Medical English Business French Spanish for Customer Service Technical English Legal French And much more… Intra-Company Training Our intra-company language training ensures that your employees can communicate effectively in your business environment, whether it's for internal collaboration, client relations, or industry-specific communications. One-on-One Sessions We also offer personalized one-on-one sessions for individuals looking for customized attention, flexibility, and a focused learning experience. These sessions are tailored to your specific language goals, pace, and schedule.
+
+q041 | Answerable: True
+QUESTION: What kinds of bootcamps does LCI advertise?
+REFERENCE: LCI advertises bootcamps including AI, cybersecurity, communication, entrepreneurship, podcast production, and social media and content creation.
+GENERATED: LCI advertises the following bootcamps: AI Bootcamp, Communication Bootcamp, Cybersecurity Bootcamp, Entrepreneurship Bootcamp, Kids Camp, Podcast Production Bootcamp, Social Media & Content Creation Bootcamp, and 3D Prototyping & Printing Bootcamp. [S1]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/bootcamps/presentation-bootcamps
+TITLE: Presentation - LCI Bootcamps - LCI - Private University
+Presentation - LCI Bootcamps Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing MSB together with LCI has developed four Bootcamps for students between the ages of 13 and 18. A bootcamp is a short intense and rigorous training session which develops competencies in a particular field also known as accelerated learning. Students benefit from MSB and international faculty and coaches and are encouraged to speak in English at all times . Activities are interactive and provide a dynamic and engaging a learning environment. A great way to spend the school holidays, learning new skills and having fun.
+
+q042 | Answerable: True
+QUESTION: Does LCI list an AI Bootcamp?
+REFERENCE: Yes. LCI lists an AI Bootcamp.
+GENERATED: Yes, LCI lists an AI Bootcamp. This can be seen in [S1].
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/bootcamps/presentation-bootcamps
+TITLE: Presentation - LCI Bootcamps - LCI - Private University
+Presentation - LCI Bootcamps Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing MSB together with LCI has developed four Bootcamps for students between the ages of 13 and 18. A bootcamp is a short intense and rigorous training session which develops competencies in a particular field also known as accelerated learning. Students benefit from MSB and international faculty and coaches and are encouraged to speak in English at all times . Activities are interactive and provide a dynamic and engaging a learning environment. A great way to spend the school holidays, learning new skills and having fun.
+
+q043 | Answerable: True
+QUESTION: Does LCI list a cybersecurity bootcamp?
+REFERENCE: Yes. LCI lists a Cybersecurity Bootcamp.
+GENERATED: Yes, LCI lists a cybersecurity bootcamp. This is directly supported by [S4].
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/bootcamps/cybersecurity-bootcamp
+TITLE: Cybersecurity Bootcamp - LCI - Private University
+Cybersecurity Bootcamp page Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing 🔐 Cybersecurity – Think Like a Hacker Security & Analytical Thinking (Ages 13–18) Cybersecurity is a critical field in today’s digital world. This program introduces students to ethical hacking concepts and teaches them how to protect systems and data. What students will learn: Basics of cybersecurity and ethical hacking Protecting systems and sensitive data Logical thinking and analytical skills Understanding real-world cybersecurity challenges Responsible and ethical digital behavior Outcome: Students develop a mini cybersecurity project during the program Click here to register: https://share-eu1.hsforms.com/11qkWJ_VwRHCwIgBuHptoOQ2dgcmc , or call at (+216) 20698624 .
+
+q044 | Answerable: True
+QUESTION: What is the subject of LCI's Power BI course?
+REFERENCE: LCI lists a course titled Power BI and Machine Learning.
+GENERATED: The subject of LCI's Power BI course is to gain hands-on experience with Power BI and machine learning to analyze data, uncover patterns, and generate valuable business insights. This includes creating interactive dashboards and compelling reports for better decision-making, as well as automating business processes using machine learning algorithms. [S2]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/corporate-training-lci/power-bi-machine-learning
+TITLE: Power BI & Machine Learning - LCI - Private University
+Power BI & Machine Learning page Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication Gain hands-on experience with Power BI and machine learning to analyze data, uncover patterns, and generate valuable business insights. This workshop will equip participants with the skills to master data visualization, enabling them to create interactive dashboards and compelling reports for better decision-making. They will also learn how to automate business processes using machine learning algorithms, improving efficiency and reducing manual workload. Additionally, the training will focus on making data-driven decisions, helping participants interpret complex datasets and apply predictive analytics to optimize business strategies and performance. Outcome: Create interactive dashboards. Interpret machine learning models. Apply data analysis in real-world scenarios. Workshop Details: 20 hours of training Evening class format Twice a week, from 6:30 pm to 8:30 pm SMU Campus, Lac 2.
+
+q045 | Answerable: True
+QUESTION: Does LCI provide courses related to public speaking?
+REFERENCE: Yes. LCI lists a Public Speaking course.
+GENERATED: Yes, LCI provides courses related to public speaking. This can be inferred from the excerpt in [S3] where Leila Becha, an HR Manager, mentions improving her "knowledge of Business English and Public Speaking" through a course at LCI. [S3]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci
+TITLE: LCI - Language and Culture Institute: Language Center Tunisia
+Facts and Figures 500+ Participants in 2024 90% Satisfied Participants 20+ Training Programs 30+ Corporate Partners About us In today’s fast-changing world, continuous learning is key to success. LCI – Language & Culture Institute, part of South Mediterranean University (SMU), empowers professionals, students, and youth by providing top-tier training and globally recognized certifications. Our programs blend academic excellence with practical experience, helping individuals enhance their skills, stay ahead of market trends, and achieve career growth. Whether you're an executive seeking advancement, a student developing new competencies, or a young learner exploring future opportunities, LCI offers a dynamic learning environment led by industry experts. Join LCI—where education meets career success! . President's Message In a globalized world economic order, your capacity of communicating in the language of your partners in different parts of the world and understanding their cultural specificities is of prime importance. Director’s Message The Language and Culture Institute is a centre of excellence in language training and cultural activities. Our mission is to provide language and professional development courses of excellence, as well as promoting inter cultural awareness leading to a better understanding and bringing together of people from all over the world. By choosing LCI you will embark on a unique and stimulating learning experience. Our long-standing expertise, cutting-edge pedagogical methods, and dedicated staff will make this choice your key to the future. News British Ambassador Visit 2024-12-20 🎉 Strengthening Ties: LCI and British Council Partnership🤝 We’re proud to announce that the SMU Language &a... read more Career fair 2024 2024-11-20 A Heartfelt Thanks to Our Amazing Partners! The 11th Edition of the SMU Career Fair: AI for Sustainability... read more Mediterranean School of Health Launching 2024-06-13 🎉 La South Mediterranean University (SMU) est ravie de d'annoncer le lancemen... read more read more Zied Khabtani Accounting Manager I participated in a Business English course and was able to really improve my communication skills as well as professional writing. The classes are dynamic, interactive and fun, it was fruitful and enjoyable experience Leila Becha HR Manager It was important for me to improve my knowledge of Business English and Public Speaking to move ahead in my professional career. At LCI I was able not only to boost
+
+q046 | Answerable: True
+QUESTION: Does LCI offer a course related to personal branding?
+REFERENCE: Yes. LCI lists Social Media and Personal Branding.
+GENERATED: I don't have enough information in the available SMU sources to answer that question.
+
+CITED SOURCE EVIDENCE:
+No cited source URLs.
+
+q047 | Answerable: True
+QUESTION: What language course does LCI list for Tunisian dialect?
+REFERENCE: LCI lists a Tunisian Dialect Course.
+GENERATED: The Tunisian Dialect Course is listed in the available SMU sources. [S1]
+
+I don't have enough information in the available SMU sources to answer that question regarding other language courses offered for Tunisian dialect. [S1] [S2] [S3] [S4]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/language-programs/english-language-course
+TITLE: English Language Course - LCI - Private University
+English Language Course Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses English Language Course This course is designed to improve your English language skills in all areas: speaking, listening, reading, and writing. Whether you're a beginner or looking to refine your skills, the course focuses on enhancing fluency and comprehension, with a strong emphasis on practical communication in everyday and professional settings. You will engage in interactive lessons that help build your vocabulary, grammar, and pronunciation, equipping you with the confidence to use English in diverse situations. Outcome: Enhance fluency in speaking and writing English. Improve listening and reading comprehension. Build vocabulary and strengthen grammar. Course Details: 40 hours of training Evening class format Twice a week, from 6:30 pm to 8:30 pm SMU Campus, Lac 2.
+
+URL: https://www.smu.tn/lci/language-programs/tailored-courses
+TITLE: Language Courses - Tailored to Your Needs - LCI - Private University
+Language Courses - Tailored to Your Needs page Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses Language Courses - Tailored to Your Needs We offer a wide range of language courses in English , French , Spanish , Italian , and Chinese , designed to enhance communication skills in both personal and professional contexts. Our courses cover all key language skills: speaking, listening, reading, and writing. Custom Training for Your Business We provide specialized language training tailored to meet the specific needs of your industry, such as: Medical English Business French Spanish for Customer Service Technical English Legal French And much more… Intra-Company Training Our intra-company language training ensures that your employees can communicate effectively in your business environment, whether it's for internal collaboration, client relations, or industry-specific communications. One-on-One Sessions We also offer personalized one-on-one sessions for individuals looking for customized attention, flexibility, and a focused learning experience. These sessions are tailored to your specific language goals, pace, and schedule.
+
+URL: https://www.smu.tn/lci/language-programs/tunisian-dialect-course
+TITLE: Tunisian Dialect Course - LCI - Private University
+Tunisian Dialect Course Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses Tunisian Dialect Course This course offers an immersive experience in the Tunisian dialect, focusing on practical, everyday conversations. It’s perfect for those who want to connect with locals or understand Tunisian culture better. Participants will learn essential vocabulary, pronunciation, and expressions commonly used in Tunisia, gaining the confidence to converse fluently in informal settings. Outcome: Learn key expressions and vocabulary used in daily conversations. Improve pronunciation and fluency in Tunisian Arabic. Gain cultural insights for better understanding and communication in Tunisia. Course Details: 40 hours of training Evening class format Twice a week, from 6:30 pm to 8:30 pm SMU Campus, Lac 2.
+
+URL: https://www.smu.tn/lci/sitemap
+TITLE: Sitemap
+Site Map sitemap LCI About Us About Us Director’s Message Mission & Values They Trust Us Faculty & Coaches Faculty Openings Corporate Training Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication Language Courses Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses News Events SMU Portal Exam Prep Courses IELTS TOEFL GMAT MSB Summer Bootcamps Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing MEDTECH
+
+q048 | Answerable: True
+QUESTION: Does LCI advertise a course about emotional and cultural intelligence?
+REFERENCE: Yes. LCI lists Emotional and Cultural Intelligence.
+GENERATED: Yes, LCI advertises a course about emotional and cultural intelligence.
+
+[S2]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/corporate-training-lci/emotional-cultural-intelligence
+TITLE: Emotional & Cultural Intelligence - LCI - Private University
+Emotional & Cultural Intelligence page Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication Emotional Intelligence for Better Decisions & Results (EQ&CQ) Explores how emotional and cultural intelligence impact workplace success and interpersonal relationships, building self-awareness, emotional management under pressure, and cross-cultural communication skills. Outcome: Build stronger workplace relationships. Enhance team collaboration. Navigate cultural diversity effectively. Details: 20 hours. Evening format, twice/week, 6:30–8:30 PM. SMU Campus, Lac 2.
+
+q049 | Answerable: True
+QUESTION: What kind of course does LCI list for career development?
+REFERENCE: LCI lists Profiling for Career Development and Talent Retention.
+GENERATED: LCI lists several courses for career development, including the Career Development & Talent Retention program, which is part of their tailored courses. [S2] [S3]
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/about/about-us
+TITLE: About Us - LCI - Private University
+About Us About Us Director’s Message Mission & Values They Trust Us Faculty & Coaches Faculty Openings “In today’s fast-evolving world, staying ahead requires continuous learning and gaining recognized qualifications. LCI – Learning & Certification Institute, an extension of South Mediterranean University (SMU), is committed to empowering both professionals and students by bridging the gap between education and career development. At LCI, we offer a wide range of cutting-edge training programs that cater to professionals, students, and youth, aiming to enhance skills, adapt to market trends, and earn globally recognized certifications. Our programs combine academic rigor, hands-on experience, and internationally accredited credentials, empowering individuals to excel in competitive industries and thrive in their personal growth. Whether you’re an executive aiming to elevate your career, a student seeking personal development, or a young learner ready to explore new skills during our summer bootcamps, LCI provides a dynamic learning environment tailored to your needs. Our faculty of industry experts and certified trainers ensures a learning experience that fosters success in both professional and personal development. Join us at LCI – where career development, personal growth, and global recognition come together to shape your future!” Values Diversity Excellence Care Integrity Creativity Click here to download the LCI Brochure : Download Brochure
+
+URL: https://www.smu.tn/lci/sitemap
+TITLE: Sitemap
+Site Map sitemap LCI About Us About Us Director’s Message Mission & Values They Trust Us Faculty & Coaches Faculty Openings Corporate Training Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication Language Courses Presentation English French Tunisian Dialect Spanish Italian Chinese Tailored Courses News Events SMU Portal Exam Prep Courses IELTS TOEFL GMAT MSB Summer Bootcamps Presentation AI Bootcamp Communication Bootcamp Cybersecurity Bootcamp Entrepreneurship Bootcamp Kids Camp Podcast Production Bootcamp Social Media & Content Creation Bootcamp 3D Prototyping & Printing MEDTECH
+
+q050 | Answerable: True
+QUESTION: Does LCI list a course about green growth hacking?
+REFERENCE: Yes. LCI lists Green Growth Hacking.
+GENERATED: Yes, LCI lists a course about green growth hacking. This can be seen in [S2].
+
+CITED SOURCE EVIDENCE:
+
+URL: https://www.smu.tn/lci/corporate-training-lci/green-growth-hacking
+TITLE: Green Growth Hacking - LCI - Private University
+Green Growth Hacking page Women in Leadership Influence & Communication Public Speaking Emotional & Cultural Intelligence Green Growth Hacking Power BI & Machine Learning Social Media & Personal Branding Profiling for Career Development & Talent Retention Gen Z Retention Business English & Communication This training program is designed to equip participants with the fundamentals of growth hacking and its role in sustainable business growth, along with strategies for eco-friendly digital marketing, community engagement, and viral growth. Participants will gain hands-on experience in sustainable business models and green analytics, while also learning practical frameworks for scaling impact-driven brands while reducing environmental footprints. Outcome: Develop green business strategies. Understand eco-friendly innovations. Leverage sustainability for competitive advantage. Workshop Details: 20 hours of training Evening class format Twice a week, from 6:30 pm to 8:30 pm SMU Campus, Lac 2.

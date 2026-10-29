@@ -1,0 +1,21 @@
+{
+  "total_questions": 100,
+  "factual_correctness_answerable": {
+    "reviewed": 8,
+    "correct": 8,
+    "rate": 1.0
+  },
+  "citation_support_answerable": {
+    "reviewed": 8,
+    "correct": 8,
+    "rate": 1.0
+  },
+  "abstention_decision_accuracy": {
+    "reviewed": 100,
+    "correct": 80,
+    "rate": 0.8
+  },
+  "correct_abstentions": 20,
+  "unanswerable_questions": 22,
+  "manual_review_remaining": 70
+}

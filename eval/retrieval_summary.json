@@ -1,0 +1,42 @@
+{
+  "bm25": {
+    "questions_attempted": 78,
+    "errors": 0,
+    "expected_source_hit_rate_at_5": 0.6410256410256411,
+    "expected_source_hit_rate_at_10": 0.782051282051282,
+    "expected_url_coverage_at_5": 0.6307692307692309,
+    "expected_url_coverage_at_10": 0.7743589743589744,
+    "search_latency_p50_ms": 1.23,
+    "search_latency_p95_ms": 2.18
+  },
+  "vector": {
+    "questions_attempted": 78,
+    "errors": 0,
+    "expected_source_hit_rate_at_5": 0.6794871794871795,
+    "expected_source_hit_rate_at_10": 0.7307692307692307,
+    "expected_url_coverage_at_5": 0.6794871794871795,
+    "expected_url_coverage_at_10": 0.7307692307692307,
+    "search_latency_p50_ms": 11.61,
+    "search_latency_p95_ms": 13.0
+  },
+  "hybrid": {
+    "questions_attempted": 78,
+    "errors": 0,
+    "expected_source_hit_rate_at_5": 0.5897435897435898,
+    "expected_source_hit_rate_at_10": 0.7051282051282052,
+    "expected_url_coverage_at_5": 0.5794871794871795,
+    "expected_url_coverage_at_10": 0.6974358974358974,
+    "search_latency_p50_ms": 23.2,
+    "search_latency_p95_ms": 29.13
+  },
+  "hybrid_reranker": {
+    "questions_attempted": 78,
+    "errors": 0,
+    "expected_source_hit_rate_at_5": 0.6025641025641025,
+    "expected_source_hit_rate_at_10": 0.6923076923076923,
+    "expected_url_coverage_at_5": 0.6025641025641025,
+    "expected_url_coverage_at_10": 0.6923076923076923,
+    "search_latency_p50_ms": 2631.83,
+    "search_latency_p95_ms": 3615.25
+  }
+}

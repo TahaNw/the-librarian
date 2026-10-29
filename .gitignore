@@ -1,0 +1,28 @@
+
+@'
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated indexes and local databases
+storage/
+chroma_db/
+
+# Temporary backups
+*.bak
+*.bak.*
+
+# OS files
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Encoding utf8 .gitignore
+
+git check-ignore .env
+git check-ignore .venv

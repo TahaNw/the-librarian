@@ -1,0 +1,16 @@
+{
+  "total_questions": 100,
+  "successful_runs": 100,
+  "errors": 0,
+  "answerable_questions": 78,
+  "unanswerable_questions": 22,
+  "decision_accuracy": 0.8,
+  "correct_abstentions": 20,
+  "abstention_recall": 0.9090909090909091,
+  "missed_abstentions": 2,
+  "answerable_questions_with_matching_citations": 35,
+  "citation_source_match_rate": 0.44871794871794873,
+  "latency_p50_ms": 24534.91,
+  "latency_p95_ms": 37569.43,
+  "manual_correctness": "Not measured automatically; review eval/results.jsonl."
+}

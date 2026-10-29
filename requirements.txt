@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+pydantic-settings
+python-dotenv
+httpx
+pymupdf
+sentence-transformers
+chromadb
+rank-bm25
+numpy
+scikit-learn
+pytest
+beautifulsoup4
